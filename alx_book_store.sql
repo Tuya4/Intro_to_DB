@@ -1,4 +1,4 @@
-CREATE SCHEMA `alx_book_store` ;
+CREATE DATABASE `alx_book_store` ;
 USE `alx_book_store` ;
 CREATE TABLE `Authors` (
 	`author_id` INT AUTO_INCREMENT PRIMARY KEY,
